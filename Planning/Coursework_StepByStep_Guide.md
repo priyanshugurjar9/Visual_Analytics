@@ -1,5 +1,4 @@
 # Visual Analytics Coursework — Complete Step-by-Step Guide
-**Target: 100/100 — Spring 2026**
 **Deadline: 13:00, Tuesday 5th May 2026**
 
 ---
